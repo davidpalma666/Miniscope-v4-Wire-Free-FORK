@@ -1,0 +1,20 @@
+
+
+h permitida
+h_PCB2top= 14mm
+
+
+
+switch agora já não usado:
+EVQPAC07K
+https://www.digikey.com/en/products/detail/panasonic-electronic-components/evq-pac07k/91452
+
+
+
+opção 1:
+https://www.digikey.com/en/products/detail/c-k/D6R90-F2-LFS/1466352
+h=14.3mm
+D=~12mm (redondo)
+
+
+

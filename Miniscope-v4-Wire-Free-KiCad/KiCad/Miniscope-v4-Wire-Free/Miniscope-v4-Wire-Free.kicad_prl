@@ -1,12 +1,14 @@
 {
   "board": {
-    "active_layer": 36,
+    "active_layer": 31,
     "active_layer_preset": "",
     "auto_track_width": true,
+    "hidden_netclasses": [],
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
+      "images": 0.6,
       "pads": 1.0,
       "tracks": 1.0,
       "vias": 1.0,
@@ -18,7 +20,7 @@
       "footprints": true,
       "graphics": true,
       "keepouts": true,
-      "lockedItems": true,
+      "lockedItems": false,
       "otherItems": true,
       "pads": true,
       "text": true,
@@ -33,12 +35,9 @@
       3,
       4,
       5,
-      6,
-      7,
       8,
       9,
       10,
-      11,
       12,
       13,
       14,
@@ -64,8 +63,8 @@
       35,
       36
     ],
-    "visible_layers": "00030f3_8000001f",
-    "zone_display_mode": 0
+    "visible_layers": "000d006_ffffffff",
+    "zone_display_mode": 1
   },
   "meta": {
     "filename": "Miniscope-v4-Wire-Free.kicad_prl",
