@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>C:\Users\David Palma\Documents\GitHub\Miniscope-v4-Wire-Free\Miniscope-v4-Wire-Free-KiCad\KiCad\Miniscope-v4-Wire-Free\Miniscope-v4-Wire-Free.kicad_sch</source>
-    <date>04/07/2024 16:50:52</date>
-    <tool>Eeschema (6.0.11)</tool>
+    <source>C:\Users\David Palma\Documents\GitHub\davidpalma666\Miniscope-v4-Wire-Free-FORK\Miniscope-v4-Wire-Free-KiCad\KiCad\Miniscope-v4-Wire-Free\Miniscope-v4-Wire-Free.kicad_sch</source>
+    <date>29/07/2024 12:39:22</date>
+    <tool>Eeschema 7.0.5</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>Miniscope-v4-Wire-Free</title>
@@ -283,14 +283,14 @@
       <value>4.7uF</value>
       <footprint>.Capacitor:C_0201_0603Metric_L</footprint>
       <fields>
-        <field name="Description">SMD CER 0201 4.7UF 6.3V ±20%  X5R    CASE SIZE CONTAINS MAX VOLTAGE!!</field>
-        <field name="MPN">GRM035R60J475ME15D   https://www.digikey.pt/en/products/detail/murata-electronics/GRM035R60J475ME15D/5877393</field>
-        <field name="OEPS PN">TBD</field>
+        <field name="Description">SMD CER 0201 4.7UF 6.3V ±20%  X5R</field>
+        <field name="MPN">GRM035R60J475ME15D</field>
+        <field name="OEPS PN">OEPS010065</field>
       </fields>
       <libsource lib="Miniscope-v4-Wire-Free-rescue" part="C_Small-.Device" description=""/>
-      <property name="OEPS PN" value="TBD"/>
-      <property name="Description" value="SMD CER 0201 4.7UF 6.3V ±20%  X5R    CASE SIZE CONTAINS MAX VOLTAGE!!"/>
-      <property name="MPN" value="GRM035R60J475ME15D   https://www.digikey.pt/en/products/detail/murata-electronics/GRM035R60J475ME15D/5877393"/>
+      <property name="OEPS PN" value="OEPS010065"/>
+      <property name="Description" value="SMD CER 0201 4.7UF 6.3V ±20%  X5R"/>
+      <property name="MPN" value="GRM035R60J475ME15D"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -470,14 +470,14 @@
       <value>4.7uF</value>
       <footprint>.Capacitor:C_0201_0603Metric_L</footprint>
       <fields>
-        <field name="Description">SMD CER 0201 4.7UF 6.3V ±20%  X5R    CASE SIZE CONTAINS MAX VOLTAGE!!</field>
-        <field name="MPN">GRM035R60J475ME15D   https://www.digikey.pt/en/products/detail/murata-electronics/GRM035R60J475ME15D/5877393</field>
-        <field name="OEPS PN">TBD</field>
+        <field name="Description">SMD CER 0201 4.7UF 6.3V ±20%  X5R</field>
+        <field name="MPN">GRM035R60J475ME15D</field>
+        <field name="OEPS PN">OEPS010065</field>
       </fields>
       <libsource lib="Miniscope-v4-Wire-Free-rescue" part="C_Small-.Device" description=""/>
-      <property name="OEPS PN" value="TBD"/>
-      <property name="Description" value="SMD CER 0201 4.7UF 6.3V ±20%  X5R    CASE SIZE CONTAINS MAX VOLTAGE!!"/>
-      <property name="MPN" value="GRM035R60J475ME15D   https://www.digikey.pt/en/products/detail/murata-electronics/GRM035R60J475ME15D/5877393"/>
+      <property name="OEPS PN" value="OEPS010065"/>
+      <property name="Description" value="SMD CER 0201 4.7UF 6.3V ±20%  X5R"/>
+      <property name="MPN" value="GRM035R60J475ME15D"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -521,14 +521,14 @@
       <value>4.7uF</value>
       <footprint>.Capacitor:C_0201_0603Metric_L</footprint>
       <fields>
-        <field name="Description">SMD CER 0201 4.7UF 6.3V ±20%  X5R    CASE SIZE CONTAINS MAX VOLTAGE!!</field>
-        <field name="MPN">GRM035R60J475ME15D   https://www.digikey.pt/en/products/detail/murata-electronics/GRM035R60J475ME15D/5877393</field>
-        <field name="OEPS PN">TBD</field>
+        <field name="Description">SMD CER 0201 4.7UF 6.3V ±20%  X5R</field>
+        <field name="MPN">GRM035R60J475ME15D</field>
+        <field name="OEPS PN">OEPS010065</field>
       </fields>
       <libsource lib="Miniscope-v4-Wire-Free-rescue" part="C_Small-.Device" description=""/>
-      <property name="OEPS PN" value="TBD"/>
-      <property name="Description" value="SMD CER 0201 4.7UF 6.3V ±20%  X5R    CASE SIZE CONTAINS MAX VOLTAGE!!"/>
-      <property name="MPN" value="GRM035R60J475ME15D   https://www.digikey.pt/en/products/detail/murata-electronics/GRM035R60J475ME15D/5877393"/>
+      <property name="OEPS PN" value="OEPS010065"/>
+      <property name="Description" value="SMD CER 0201 4.7UF 6.3V ±20%  X5R"/>
+      <property name="MPN" value="GRM035R60J475ME15D"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -828,14 +828,14 @@
       <value>LTST-C191KEKT</value>
       <footprint>.LED:LED_SC80X160X65L40L</footprint>
       <fields>
-        <field name="Description">Standard LEDs - SMD SMD LED Thin Red 621nm 60mcd</field>
+        <field name="Description">LED SMD Red 624nm 20mA</field>
         <field name="MPN">LTST-C191KEKT</field>
-        <field name="OEPS PN">TBD</field>
+        <field name="OEPS PN">OEPS030029</field>
       </fields>
       <libsource lib="Miniscope-v4-Wire-Free-rescue" part="LED_Small_ALT-.Device" description=""/>
-      <property name="Description" value="Standard LEDs - SMD SMD LED Thin Red 621nm 60mcd"/>
+      <property name="Description" value="LED SMD Red 624nm 20mA"/>
       <property name="MPN" value="LTST-C191KEKT"/>
-      <property name="OEPS PN" value="TBD"/>
+      <property name="OEPS PN" value="OEPS030029"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -845,14 +845,14 @@
       <value>LTST-C191KEKT</value>
       <footprint>.LED:LED_SC80X160X65L40L</footprint>
       <fields>
-        <field name="Description">Standard LEDs - SMD SMD LED Thin Red 621nm 60mcd</field>
+        <field name="Description">LED SMD Red 624nm 20mA</field>
         <field name="MPN">LTST-C191KEKT</field>
-        <field name="OEPS PN">TBD</field>
+        <field name="OEPS PN">OEPS030029</field>
       </fields>
       <libsource lib="Miniscope-v4-Wire-Free-rescue" part="LED_Small_ALT-.Device" description=""/>
-      <property name="Description" value="Standard LEDs - SMD SMD LED Thin Red 621nm 60mcd"/>
+      <property name="Description" value="LED SMD Red 624nm 20mA"/>
       <property name="MPN" value="LTST-C191KEKT"/>
-      <property name="OEPS PN" value="TBD"/>
+      <property name="OEPS PN" value="OEPS030029"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -864,32 +864,34 @@
       <datasheet>https://www.molex.com/pdm_docs/sd/475710001_sd.pdf</datasheet>
       <fields>
         <field name="Description">CONN MICRO SD CARD PUSH-PULL R/A</field>
-        <field name="MPN">0475710001 https://www.digikey.com/en/products/detail/molex/0475710001/3262277</field>
-        <field name="OEPS PN">TBD</field>
+        <field name="MPN">0475710001</field>
+        <field name="OEPS PN">OEPS070078</field>
       </fields>
       <libsource lib="Miniscope-v4-Wire-Free-rescue" part="0475710001-.Connector" description=""/>
       <property name="Description" value="CONN MICRO SD CARD PUSH-PULL R/A"/>
-      <property name="MPN" value="0475710001 https://www.digikey.com/en/products/detail/molex/0475710001/3262277"/>
-      <property name="OEPS PN" value="TBD"/>
+      <property name="MPN" value="0475710001"/>
+      <property name="OEPS PN" value="OEPS070078"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000609ee7b5</tstamps>
     </comp>
     <comp ref="J2">
-      <value>Conn_01x04</value>
+      <value>DNP</value>
       <footprint>.Connector:1x4_USB</footprint>
       <fields>
-        <field name="Description">DNP</field>
+        <field name="Description">n.a.</field>
         <field name="MPN">n.a.</field>
         <field name="OEPS PN">n.a.</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Description" value="DNP"/>
+      <property name="Description" value="n.a."/>
       <property name="MPN" value="n.a."/>
       <property name="OEPS PN" value="n.a."/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000060a05bfa</tstamps>
     </comp>
@@ -899,405 +901,453 @@
       <fields>
         <field name="Description">CONN FFC BOTTOM 4POS 0.5MM R/A</field>
         <field name="MPN">FH19C-4S-0.5SH(10)</field>
-        <field name="OEPS PN">TBD</field>
+        <field name="OEPS PN">OEPS070077</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Description" value="CONN FFC BOTTOM 4POS 0.5MM R/A"/>
       <property name="MPN" value="FH19C-4S-0.5SH(10)"/>
-      <property name="OEPS PN" value="TBD"/>
+      <property name="OEPS PN" value="OEPS070077"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000060a06714</tstamps>
     </comp>
     <comp ref="J4">
-      <value>Conn_01x01</value>
+      <value>DNP</value>
       <footprint>.Connector:Conn_1x1_700_Circular_Pad</footprint>
       <fields>
-        <field name="Description">DNP</field>
+        <field name="Description">n.a.</field>
         <field name="MPN">n.a.</field>
         <field name="OEPS PN">n.a.</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Description" value="DNP"/>
+      <property name="Description" value="n.a."/>
       <property name="MPN" value="n.a."/>
       <property name="OEPS PN" value="n.a."/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000060a0c432</tstamps>
     </comp>
     <comp ref="J5">
-      <value>Conn_01x01</value>
+      <value>DNP</value>
       <footprint>.Connector:Conn_1x1_700_Circular_Pad</footprint>
       <fields>
-        <field name="Description">DNP</field>
+        <field name="Description">n.a.</field>
         <field name="MPN">n.a.</field>
         <field name="OEPS PN">n.a.</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Description" value="DNP"/>
+      <property name="Description" value="n.a."/>
       <property name="MPN" value="n.a."/>
       <property name="OEPS PN" value="n.a."/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000060a0c89b</tstamps>
     </comp>
     <comp ref="J6">
-      <value>Conn_01x01</value>
+      <value>DNP</value>
       <footprint>.Connector:Conn_1x1_700_Circular_Pad</footprint>
       <fields>
-        <field name="Description">DNP</field>
+        <field name="Description">n.a.</field>
         <field name="MPN">n.a.</field>
         <field name="OEPS PN">n.a.</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Description" value="DNP"/>
+      <property name="Description" value="n.a."/>
       <property name="MPN" value="n.a."/>
       <property name="OEPS PN" value="n.a."/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000060a0cbf3</tstamps>
     </comp>
     <comp ref="J7">
-      <value>Conn_01x01</value>
+      <value>DNP</value>
       <footprint>.Connector:Conn_1x1_700_Circular_Pad</footprint>
       <fields>
-        <field name="Description">DNP</field>
+        <field name="Description">n.a.</field>
         <field name="MPN">n.a.</field>
         <field name="OEPS PN">n.a.</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Description" value="DNP"/>
+      <property name="Description" value="n.a."/>
       <property name="MPN" value="n.a."/>
       <property name="OEPS PN" value="n.a."/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000060a0cea1</tstamps>
     </comp>
     <comp ref="J8">
-      <value>Conn_01x01</value>
+      <value>DNP</value>
       <footprint>.Connector:Conn_1x1_700_Circular_Pad</footprint>
       <fields>
-        <field name="Description">DNP</field>
+        <field name="Description">n.a.</field>
         <field name="MPN">n.a.</field>
         <field name="OEPS PN">n.a.</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Description" value="DNP"/>
+      <property name="Description" value="n.a."/>
       <property name="MPN" value="n.a."/>
       <property name="OEPS PN" value="n.a."/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000621131f7</tstamps>
     </comp>
     <comp ref="J9">
-      <value>Conn_01x01</value>
+      <value>DNP</value>
       <footprint>.Connector:Conn_1x1_700_Circular_Pad</footprint>
       <fields>
-        <field name="Description">DNP</field>
+        <field name="Description">n.a.</field>
         <field name="MPN">n.a.</field>
         <field name="OEPS PN">n.a.</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Description" value="DNP"/>
+      <property name="Description" value="n.a."/>
       <property name="MPN" value="n.a."/>
       <property name="OEPS PN" value="n.a."/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006291916a</tstamps>
     </comp>
     <comp ref="J10">
-      <value>Conn_01x01</value>
+      <value>DNP</value>
       <footprint>.Connector:Conn_1x1_700_Circular_Pad</footprint>
       <fields>
-        <field name="Description">DNP</field>
+        <field name="Description">n.a.</field>
         <field name="MPN">n.a.</field>
         <field name="OEPS PN">n.a.</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Description" value="DNP"/>
+      <property name="Description" value="n.a."/>
       <property name="MPN" value="n.a."/>
       <property name="OEPS PN" value="n.a."/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000062919164</tstamps>
     </comp>
     <comp ref="J11">
-      <value>Conn_01x01</value>
+      <value>DNP</value>
       <footprint>.Connector:Conn_1x1_700_Circular_Pad</footprint>
       <fields>
-        <field name="Description">DNP</field>
+        <field name="Description">n.a.</field>
         <field name="MPN">n.a.</field>
         <field name="OEPS PN">n.a.</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Description" value="DNP"/>
+      <property name="Description" value="n.a."/>
       <property name="MPN" value="n.a."/>
       <property name="OEPS PN" value="n.a."/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061bb4d5b</tstamps>
     </comp>
     <comp ref="J12">
-      <value>Conn_01x01</value>
+      <value>DNP</value>
       <footprint>.Connector:Conn_1x1_700_Circular_Pad</footprint>
       <fields>
-        <field name="Description">DNP</field>
+        <field name="Description">n.a.</field>
         <field name="MPN">n.a.</field>
         <field name="OEPS PN">n.a.</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Description" value="DNP"/>
+      <property name="Description" value="n.a."/>
       <property name="MPN" value="n.a."/>
       <property name="OEPS PN" value="n.a."/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061bb4d61</tstamps>
     </comp>
     <comp ref="J14">
-      <value>Conn_01x01</value>
+      <value>DNP</value>
       <footprint>.Connector:Conn_1x1_700_Circular_Pad</footprint>
       <fields>
-        <field name="Description">DNP</field>
+        <field name="Description">n.a.</field>
         <field name="MPN">n.a.</field>
         <field name="OEPS PN">n.a.</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Description" value="DNP"/>
+      <property name="Description" value="n.a."/>
       <property name="MPN" value="n.a."/>
       <property name="OEPS PN" value="n.a."/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000060f54b2f</tstamps>
     </comp>
     <comp ref="J15">
-      <value>Conn_01x01</value>
+      <value>DNP</value>
       <footprint>.Connector:Conn_1x1_700_Circular_Pad</footprint>
       <fields>
-        <field name="Description">DNP</field>
+        <field name="Description">n.a.</field>
         <field name="MPN">n.a.</field>
         <field name="OEPS PN">n.a.</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Description" value="DNP"/>
+      <property name="Description" value="n.a."/>
       <property name="MPN" value="n.a."/>
       <property name="OEPS PN" value="n.a."/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000060f54f68</tstamps>
     </comp>
     <comp ref="J16">
-      <value>Conn_01x01</value>
+      <value>DNP</value>
       <footprint>.Connector:Conn_1x1_700_Circular_Pad</footprint>
       <fields>
-        <field name="Description">DNP</field>
+        <field name="Description">n.a.</field>
         <field name="MPN">n.a.</field>
         <field name="OEPS PN">n.a.</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Description" value="DNP"/>
+      <property name="Description" value="n.a."/>
       <property name="MPN" value="n.a."/>
       <property name="OEPS PN" value="n.a."/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000060f55185</tstamps>
     </comp>
     <comp ref="J17">
-      <value>Conn_01x01</value>
+      <value>DNP</value>
       <footprint>.Connector:Conn_1x1_700_Circular_Pad</footprint>
       <fields>
-        <field name="Description">DNP</field>
+        <field name="Description">n.a.</field>
         <field name="MPN">n.a.</field>
         <field name="OEPS PN">n.a.</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Description" value="DNP"/>
+      <property name="Description" value="n.a."/>
       <property name="MPN" value="n.a."/>
       <property name="OEPS PN" value="n.a."/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000060f55437</tstamps>
     </comp>
     <comp ref="J18">
-      <value>Conn_01x01</value>
+      <value>DNP</value>
       <footprint>.Connector:Conn_1x1_700_Circular_Pad</footprint>
       <fields>
-        <field name="Description">DNP</field>
+        <field name="Description">n.a.</field>
         <field name="MPN">n.a.</field>
         <field name="OEPS PN">n.a.</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Description" value="DNP"/>
+      <property name="Description" value="n.a."/>
       <property name="MPN" value="n.a."/>
       <property name="OEPS PN" value="n.a."/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000060f55c74</tstamps>
     </comp>
     <comp ref="J19">
-      <value>Conn_01x01</value>
+      <value>DNP</value>
       <footprint>.Connector:Conn_1x1_700_Circular_Pad</footprint>
       <fields>
-        <field name="Description">DNP</field>
+        <field name="Description">n.a.</field>
         <field name="MPN">n.a.</field>
         <field name="OEPS PN">n.a.</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Description" value="DNP"/>
+      <property name="Description" value="n.a."/>
       <property name="MPN" value="n.a."/>
       <property name="OEPS PN" value="n.a."/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000060f55c7a</tstamps>
     </comp>
     <comp ref="J20">
-      <value>Conn_01x01</value>
+      <value>DNP</value>
       <footprint>.Connector:Conn_1x1_700_Circular_Pad</footprint>
       <fields>
-        <field name="Description">DNP</field>
+        <field name="Description">n.a.</field>
         <field name="MPN">n.a.</field>
         <field name="OEPS PN">n.a.</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Description" value="DNP"/>
+      <property name="Description" value="n.a."/>
       <property name="MPN" value="n.a."/>
       <property name="OEPS PN" value="n.a."/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000060f55c80</tstamps>
     </comp>
     <comp ref="J21">
-      <value>Conn_01x01</value>
+      <value>DNP</value>
       <footprint>.Connector:Conn_1x1_700_Circular_Pad</footprint>
       <fields>
-        <field name="Description">DNP</field>
+        <field name="Description">n.a.</field>
         <field name="MPN">n.a.</field>
         <field name="OEPS PN">n.a.</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Description" value="DNP"/>
+      <property name="Description" value="n.a."/>
       <property name="MPN" value="n.a."/>
       <property name="OEPS PN" value="n.a."/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000060f84719</tstamps>
     </comp>
     <comp ref="J22">
-      <value>Conn_01x01</value>
+      <value>DNP</value>
       <footprint>.Connector:Conn_1x1_700_Circular_Pad</footprint>
       <fields>
-        <field name="Description">DNP</field>
+        <field name="Description">n.a.</field>
         <field name="MPN">n.a.</field>
         <field name="OEPS PN">n.a.</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Description" value="DNP"/>
+      <property name="Description" value="n.a."/>
       <property name="MPN" value="n.a."/>
       <property name="OEPS PN" value="n.a."/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000060f84713</tstamps>
     </comp>
     <comp ref="J23">
-      <value>Conn_01x01</value>
+      <value>DNP</value>
       <footprint>.Connector:Conn_1x1_700_Circular_Pad</footprint>
       <fields>
-        <field name="Description">DNP</field>
+        <field name="Description">n.a.</field>
         <field name="MPN">n.a.</field>
         <field name="OEPS PN">n.a.</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Description" value="DNP"/>
+      <property name="Description" value="n.a."/>
       <property name="MPN" value="n.a."/>
       <property name="OEPS PN" value="n.a."/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000060f8470d</tstamps>
     </comp>
     <comp ref="J24">
-      <value>Conn_01x01</value>
+      <value>DNP</value>
       <footprint>.Connector:Conn_1x1_700_Circular_Pad</footprint>
       <fields>
-        <field name="Description">DNP</field>
+        <field name="Description">n.a.</field>
         <field name="MPN">n.a.</field>
         <field name="OEPS PN">n.a.</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Description" value="DNP"/>
+      <property name="Description" value="n.a."/>
       <property name="MPN" value="n.a."/>
       <property name="OEPS PN" value="n.a."/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000060f84707</tstamps>
     </comp>
     <comp ref="J25">
-      <value>Conn_01x01</value>
+      <value>DNP</value>
       <footprint>.Connector:Conn_1x1_700_Circular_Pad</footprint>
       <fields>
-        <field name="Description">DNP</field>
+        <field name="Description">n.a.</field>
         <field name="MPN">n.a.</field>
         <field name="OEPS PN">n.a.</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Description" value="DNP"/>
+      <property name="Description" value="n.a."/>
       <property name="MPN" value="n.a."/>
       <property name="OEPS PN" value="n.a."/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000060f84701</tstamps>
     </comp>
     <comp ref="J26">
-      <value>Conn_01x01</value>
+      <value>DNP</value>
       <footprint>.Connector:Conn_1x1_700_Circular_Pad</footprint>
       <fields>
-        <field name="Description">DNP</field>
+        <field name="Description">n.a.</field>
         <field name="MPN">n.a.</field>
         <field name="OEPS PN">n.a.</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Description" value="DNP"/>
+      <property name="Description" value="n.a."/>
       <property name="MPN" value="n.a."/>
       <property name="OEPS PN" value="n.a."/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000060f846fb</tstamps>
     </comp>
     <comp ref="J27">
-      <value>Conn_01x01</value>
+      <value>DNP</value>
       <footprint>.Connector:Conn_1x1_700_Circular_Pad</footprint>
       <fields>
-        <field name="Description">DNP</field>
+        <field name="Description">n.a.</field>
         <field name="MPN">n.a.</field>
         <field name="OEPS PN">n.a.</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Description" value="DNP"/>
+      <property name="Description" value="n.a."/>
       <property name="MPN" value="n.a."/>
       <property name="OEPS PN" value="n.a."/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000060f846f5</tstamps>
     </comp>
@@ -1305,14 +1355,14 @@
       <value>10uH</value>
       <footprint>.Capacitor:C_0805_2012Metric_L</footprint>
       <fields>
-        <field name="Description">FIXED IND 10UH 400MA 2.7 OHM SMD</field>
-        <field name="MPN">0805CT-103EKFS   https://www.digikey.pt/en/products/detail/delta-electronics-components/0805CT-103EKFS/9764104</field>
-        <field name="OEPS PN">TBD</field>
+        <field name="Description">FIXED IND 10UH 300MA 600mOHM SMD</field>
+        <field name="MPN">MLZ1608N100LT000</field>
+        <field name="OEPS PN">OEPS040021</field>
       </fields>
       <libsource lib="Miniscope-v4-Wire-Free-rescue" part="L_Small-.Device" description=""/>
-      <property name="MPN" value="0805CT-103EKFS   https://www.digikey.pt/en/products/detail/delta-electronics-components/0805CT-103EKFS/9764104"/>
-      <property name="OEPS PN" value="TBD"/>
-      <property name="Description" value="FIXED IND 10UH 400MA 2.7 OHM SMD"/>
+      <property name="MPN" value="MLZ1608N100LT000"/>
+      <property name="OEPS PN" value="OEPS040021"/>
+      <property name="Description" value="FIXED IND 10UH 300MA 600mOHM SMD"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1322,14 +1372,14 @@
       <value>4.7uH</value>
       <footprint>.Capacitor:C_0805_2012Metric_L</footprint>
       <fields>
-        <field name="Description">FIXED INDUCTOR SMD 4.7uH 750mA 260mΩ</field>
-        <field name="MPN">!! CIG21L4R7MNE Obsolete; to select a new one</field>
-        <field name="OEPS PN">TBD  !! OEPS040017 Obsolete</field>
+        <field name="Description">FIXED INDUCTOR SMD 4.7uH 700mA 338mΩ</field>
+        <field name="MPN">MLP2012S4R7MT0S1</field>
+        <field name="OEPS PN">OEPS040022</field>
       </fields>
       <libsource lib="Miniscope-v4-Wire-Free-rescue" part="L_Small-.Device" description=""/>
-      <property name="Description" value="FIXED INDUCTOR SMD 4.7uH 750mA 260mΩ"/>
-      <property name="MPN" value="!! CIG21L4R7MNE Obsolete; to select a new one"/>
-      <property name="OEPS PN" value="TBD  !! OEPS040017 Obsolete"/>
+      <property name="Description" value="FIXED INDUCTOR SMD 4.7uH 700mA 338mΩ"/>
+      <property name="MPN" value="MLP2012S4R7MT0S1"/>
+      <property name="OEPS PN" value="OEPS040022"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1373,14 +1423,14 @@
       <value>10uH</value>
       <footprint>.Capacitor:C_0805_2012Metric_L</footprint>
       <fields>
-        <field name="Description">FIXED IND 10UH 400MA 2.7 OHM SMD</field>
-        <field name="MPN">0805CT-103EKFS   https://www.digikey.pt/en/products/detail/delta-electronics-components/0805CT-103EKFS/9764104</field>
-        <field name="OEPS PN">TBD</field>
+        <field name="Description">FIXED IND 10UH 300MA 600mOHM SMD</field>
+        <field name="MPN">MLZ1608N100LT000</field>
+        <field name="OEPS PN">OEPS040021</field>
       </fields>
       <libsource lib="Miniscope-v4-Wire-Free-rescue" part="L_Small-.Device" description=""/>
-      <property name="MPN" value="0805CT-103EKFS   https://www.digikey.pt/en/products/detail/delta-electronics-components/0805CT-103EKFS/9764104"/>
-      <property name="OEPS PN" value="TBD"/>
-      <property name="Description" value="FIXED IND 10UH 400MA 2.7 OHM SMD"/>
+      <property name="MPN" value="MLZ1608N100LT000"/>
+      <property name="OEPS PN" value="OEPS040021"/>
+      <property name="Description" value="FIXED IND 10UH 300MA 600mOHM SMD"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1392,18 +1442,18 @@
       <fields>
         <field name="Allied Price/Stock">http://www.alliedelec.com/on-semiconductor-ntk3134nt1g/70341343/</field>
         <field name="Allied_Number">70341343</field>
-        <field name="Description">Power MOSFET</field>
+        <field name="Description">MOSFET N-CH 20V 750mA</field>
         <field name="MPN">NTK3134NT1G</field>
         <field name="Manufacturer_Name">ON Semiconductor</field>
         <field name="Manufacturer_Part_Number">NTK3134NT1G</field>
         <field name="Mouser Part Number">863-NTK3134NT1G</field>
         <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=863-NTK3134NT1G</field>
-        <field name="OEPS PN">TBD</field>
+        <field name="OEPS PN">OEPS060015</field>
         <field name="RS Part Number">7800649P</field>
         <field name="RS Price/Stock">http://uk.rs-online.com/web/p/products/7800649P</field>
       </fields>
       <libsource lib="Miniscope-v4-Wire-Free-rescue" part="NTK3134NT1G-.Transistor" description=""/>
-      <property name="Description" value="Power MOSFET"/>
+      <property name="Description" value="MOSFET N-CH 20V 750mA"/>
       <property name="Manufacturer_Name" value="ON Semiconductor"/>
       <property name="Manufacturer_Part_Number" value="NTK3134NT1G"/>
       <property name="Mouser Part Number" value="863-NTK3134NT1G"/>
@@ -1413,7 +1463,7 @@
       <property name="Allied_Number" value="70341343"/>
       <property name="Allied Price/Stock" value="http://www.alliedelec.com/on-semiconductor-ntk3134nt1g/70341343/"/>
       <property name="MPN" value="NTK3134NT1G"/>
-      <property name="OEPS PN" value="TBD"/>
+      <property name="OEPS PN" value="OEPS060015"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1441,13 +1491,13 @@
       <value>24.9k</value>
       <footprint>.Resistor:R_0201_0603Metric_ERJ_L</footprint>
       <fields>
-        <field name="Description">SMD 0201 24.9kΩ ±1% 0.050W (OEPS Q20 008)</field>
+        <field name="Description">SMD 0201 24.9kΩ ±1% 0.050W</field>
         <field name="MPN">CRCW020124K9FNED</field>
-        <field name="OEPS PN">TBD</field>
+        <field name="OEPS PN">OEPS020105</field>
       </fields>
       <libsource lib="Miniscope-v4-Wire-Free-rescue" part="R_Small_US-.Device" description=""/>
-      <property name="OEPS PN" value="TBD"/>
-      <property name="Description" value="SMD 0201 24.9kΩ ±1% 0.050W (OEPS Q20 008)"/>
+      <property name="OEPS PN" value="OEPS020105"/>
+      <property name="Description" value="SMD 0201 24.9kΩ ±1% 0.050W"/>
       <property name="MPN" value="CRCW020124K9FNED"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
@@ -1472,17 +1522,17 @@
       <tstamps>00000000-0000-0000-0000-000060df8071</tstamps>
     </comp>
     <comp ref="R3">
-      <value>1.25M</value>
+      <value>1.27M</value>
       <footprint>.Resistor:R_0201_0603Metric_ERJ_L</footprint>
       <fields>
-        <field name="Description">1.25M only witn non-standard package; 1.2M - as option</field>
-        <field name="MPN">CRCW02011M20FNED   https://www.digikey.com/en/products/detail/vishay-dale/CRCW02011M20FNED/8637988</field>
-        <field name="OEPS PN">TBD</field>
+        <field name="Description">SMD 0201 1.27MΩ ±1% 0.050W</field>
+        <field name="MPN">CRCW02011M27FNED</field>
+        <field name="OEPS PN">OEPS020106</field>
       </fields>
       <libsource lib="Miniscope-v4-Wire-Free-rescue" part="R_Small_US-.Device" description=""/>
-      <property name="OEPS PN" value="TBD"/>
-      <property name="Description" value="1.25M only witn non-standard package; 1.2M - as option"/>
-      <property name="MPN" value="CRCW02011M20FNED   https://www.digikey.com/en/products/detail/vishay-dale/CRCW02011M20FNED/8637988"/>
+      <property name="OEPS PN" value="OEPS020106"/>
+      <property name="Description" value="SMD 0201 1.27MΩ ±1% 0.050W"/>
+      <property name="MPN" value="CRCW02011M27FNED"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1493,13 +1543,13 @@
       <footprint>.Resistor:R_0201_0603Metric_ERJ_L</footprint>
       <fields>
         <field name="Description">SMD 0201 2.05MΩ ±1% 0.050W</field>
-        <field name="MPN">CRCW02012M05FNED   https://www.digikey.com/en/products/detail/vishay-dale/CRCW02012M05FNED/10458998?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAGYBOABgHYAOEAXQIAcAXKEAZXYCcAlgDsA5iAC%2BBMJXqUEIZJHTZ8RUiGrNJIAEzV6AVnmLluAsUhkdAOmoGABAFkA8gAsAtlmZtOkEAFUhAXZnFEccNCwAVz4cCQIAWh1jKH4o1QsyIyZxXKA</field>
-        <field name="OEPS PN">TBD</field>
+        <field name="MPN">CRCW02012M05FNED</field>
+        <field name="OEPS PN">OEPS020107</field>
       </fields>
       <libsource lib="Miniscope-v4-Wire-Free-rescue" part="R_Small_US-.Device" description=""/>
-      <property name="OEPS PN" value="TBD"/>
+      <property name="OEPS PN" value="OEPS020107"/>
       <property name="Description" value="SMD 0201 2.05MΩ ±1% 0.050W"/>
-      <property name="MPN" value="CRCW02012M05FNED   https://www.digikey.com/en/products/detail/vishay-dale/CRCW02012M05FNED/10458998?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAGYBOABgHYAOEAXQIAcAXKEAZXYCcAlgDsA5iAC%2BBMJXqUEIZJHTZ8RUiGrNJIAEzV6AVnmLluAsUhkdAOmoGABAFkA8gAsAtlmZtOkEAFUhAXZnFEccNCwAVz4cCQIAWh1jKH4o1QsyIyZxXKA"/>
+      <property name="MPN" value="CRCW02012M05FNED"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1510,81 +1560,81 @@
       <footprint>.Resistor:R_0201_0603Metric_ERJ_L</footprint>
       <fields>
         <field name="Description">SMD 0201 1MΩ ±1% 0.050W</field>
-        <field name="MPN">CRCW02011M00FNED   https://www.digikey.com/en/products/detail/vishay-dale/CRCW02011M00FNED/1178507</field>
-        <field name="OEPS PN">TBD</field>
+        <field name="MPN">CRCW02011M00FNED</field>
+        <field name="OEPS PN">OEPS020108</field>
       </fields>
       <libsource lib="Miniscope-v4-Wire-Free-rescue" part="R_Small_US-.Device" description=""/>
-      <property name="OEPS PN" value="TBD"/>
+      <property name="OEPS PN" value="OEPS020108"/>
       <property name="Description" value="SMD 0201 1MΩ ±1% 0.050W"/>
-      <property name="MPN" value="CRCW02011M00FNED   https://www.digikey.com/en/products/detail/vishay-dale/CRCW02011M00FNED/1178507"/>
+      <property name="MPN" value="CRCW02011M00FNED"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000060d1ea1a</tstamps>
     </comp>
     <comp ref="R6">
-      <value>649K</value>
+      <value>649k</value>
       <footprint>.Resistor:R_0201_0603Metric_ERJ_L</footprint>
       <fields>
         <field name="Description">SMD 0201 649kΩ ±1% 0.050W</field>
-        <field name="MPN">RC0201FR-07649KL   https://www.digikey.com/en/products/detail/yageo/RC0201FR-07649KL/5280620</field>
-        <field name="OEPS PN">TBD</field>
+        <field name="MPN">RC0201FR-07649KL</field>
+        <field name="OEPS PN">OEPS020109</field>
       </fields>
       <libsource lib="Miniscope-v4-Wire-Free-rescue" part="R_Small_US-.Device" description=""/>
-      <property name="OEPS PN" value="TBD"/>
+      <property name="OEPS PN" value="OEPS020109"/>
       <property name="Description" value="SMD 0201 649kΩ ±1% 0.050W"/>
-      <property name="MPN" value="RC0201FR-07649KL   https://www.digikey.com/en/products/detail/yageo/RC0201FR-07649KL/5280620"/>
+      <property name="MPN" value="RC0201FR-07649KL"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000060d1df3e</tstamps>
     </comp>
     <comp ref="R7">
-      <value>2.2K</value>
+      <value>2.2k</value>
       <footprint>.Resistor:R_0201_0603Metric_ERJ_L</footprint>
       <fields>
         <field name="Description">SMD 0201 2.2kΩ ±1% 0.050W</field>
-        <field name="MPN">RC0201FR-072K2L   https://www.digikey.com/en/products/detail/yageo/RC0201FR-072K2L/5280432</field>
-        <field name="OEPS PN">TBD</field>
+        <field name="MPN">RC0201FR-072K2L</field>
+        <field name="OEPS PN">OEPS020110</field>
       </fields>
       <libsource lib="Miniscope-v4-Wire-Free-rescue" part="R_Small_US-.Device" description=""/>
-      <property name="OEPS PN" value="TBD"/>
+      <property name="OEPS PN" value="OEPS020110"/>
       <property name="Description" value="SMD 0201 2.2kΩ ±1% 0.050W"/>
-      <property name="MPN" value="RC0201FR-072K2L   https://www.digikey.com/en/products/detail/yageo/RC0201FR-072K2L/5280432"/>
+      <property name="MPN" value="RC0201FR-072K2L"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000060ebd1fc</tstamps>
     </comp>
     <comp ref="R8">
-      <value>2.2K</value>
+      <value>2.2k</value>
       <footprint>.Resistor:R_0201_0603Metric_ERJ_L</footprint>
       <fields>
         <field name="Description">SMD 0201 2.2kΩ ±1% 0.050W</field>
-        <field name="MPN">RC0201FR-072K2L   https://www.digikey.com/en/products/detail/yageo/RC0201FR-072K2L/5280432</field>
-        <field name="OEPS PN">TBD</field>
+        <field name="MPN">RC0201FR-072K2L</field>
+        <field name="OEPS PN">OEPS020110</field>
       </fields>
       <libsource lib="Miniscope-v4-Wire-Free-rescue" part="R_Small_US-.Device" description=""/>
-      <property name="OEPS PN" value="TBD"/>
+      <property name="OEPS PN" value="OEPS020110"/>
       <property name="Description" value="SMD 0201 2.2kΩ ±1% 0.050W"/>
-      <property name="MPN" value="RC0201FR-072K2L   https://www.digikey.com/en/products/detail/yageo/RC0201FR-072K2L/5280432"/>
+      <property name="MPN" value="RC0201FR-072K2L"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000060ebc612</tstamps>
     </comp>
     <comp ref="R9">
-      <value>8.2K</value>
+      <value>8.2k</value>
       <footprint>.Resistor:R_0201_0603Metric_ERJ_L</footprint>
       <fields>
         <field name="Description">SMD 0201 8.2kΩ ±1% 0.050W</field>
-        <field name="MPN">ERJ-1GNF8201C   https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-1GNF8201C/2036216</field>
-        <field name="OEPS PN">TBD</field>
+        <field name="MPN">ERJ-1GNF8201C</field>
+        <field name="OEPS PN">OEPS020111</field>
       </fields>
       <libsource lib="Miniscope-v4-Wire-Free-rescue" part="R_Small_US-.Device" description=""/>
-      <property name="OEPS PN" value="TBD"/>
+      <property name="OEPS PN" value="OEPS020111"/>
       <property name="Description" value="SMD 0201 8.2kΩ ±1% 0.050W"/>
-      <property name="MPN" value="ERJ-1GNF8201C   https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-1GNF8201C/2036216"/>
+      <property name="MPN" value="ERJ-1GNF8201C"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1625,17 +1675,17 @@
       <tstamps>00000000-0000-0000-0000-000061ed9e4f</tstamps>
     </comp>
     <comp ref="R12">
-      <value>DNL</value>
+      <value>DNP</value>
       <footprint>.Resistor:R_0201_0603Metric_ERJ_L</footprint>
       <fields>
-        <field name="Description">-</field>
-        <field name="MPN">-</field>
+        <field name="Description">n.a.</field>
+        <field name="MPN">n.a.</field>
         <field name="OEPS PN">n.a.</field>
       </fields>
       <libsource lib="Miniscope-v4-Wire-Free-rescue" part="R_Small_US-.Device" description=""/>
-      <property name="Description" value="-"/>
+      <property name="Description" value="n.a."/>
       <property name="OEPS PN" value="n.a."/>
-      <property name="MPN" value="-"/>
+      <property name="MPN" value="n.a."/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1645,13 +1695,13 @@
       <value>402k</value>
       <footprint>.Resistor:R_0201_0603Metric_ERJ_L</footprint>
       <fields>
-        <field name="Description">SMD 0201 402kΩ ±1% 0.050W (OEPS Q20 008)</field>
+        <field name="Description">SMD 0201 402kΩ ±1% 0.050W</field>
         <field name="MPN">ERJ-1GNF4023C</field>
-        <field name="OEPS PN">TBD</field>
+        <field name="OEPS PN">OEPS020112</field>
       </fields>
       <libsource lib="Miniscope-v4-Wire-Free-rescue" part="R_Small_US-.Device" description=""/>
-      <property name="OEPS PN" value="TBD"/>
-      <property name="Description" value="SMD 0201 402kΩ ±1% 0.050W (OEPS Q20 008)"/>
+      <property name="OEPS PN" value="OEPS020112"/>
+      <property name="Description" value="SMD 0201 402kΩ ±1% 0.050W"/>
       <property name="MPN" value="ERJ-1GNF4023C"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
@@ -1679,13 +1729,13 @@
       <value>37.4k</value>
       <footprint>.Resistor:R_0201_0603Metric_ERJ_L</footprint>
       <fields>
-        <field name="Description">SMD 0201 37.4kΩ ±1% 0.050W (OEPS Q20 008)</field>
+        <field name="Description">SMD 0201 37.4kΩ ±1% 0.050W</field>
         <field name="MPN">ERJ-1GNF3742C</field>
-        <field name="OEPS PN">TBD</field>
+        <field name="OEPS PN">OEPS020113</field>
       </fields>
       <libsource lib="Miniscope-v4-Wire-Free-rescue" part="R_Small_US-.Device" description=""/>
-      <property name="OEPS PN" value="TBD"/>
-      <property name="Description" value="SMD 0201 37.4kΩ ±1% 0.050W (OEPS Q20 008)"/>
+      <property name="OEPS PN" value="OEPS020113"/>
+      <property name="Description" value="SMD 0201 37.4kΩ ±1% 0.050W"/>
       <property name="MPN" value="ERJ-1GNF3742C"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
@@ -1713,13 +1763,13 @@
       <value>24.9k</value>
       <footprint>.Resistor:R_0201_0603Metric_ERJ_L</footprint>
       <fields>
-        <field name="Description">SMD 0201 24.9kΩ ±1% 0.050W (OEPS Q20 008)</field>
+        <field name="Description">SMD 0201 24.9kΩ ±1% 0.050W</field>
         <field name="MPN">CRCW020124K9FNED</field>
-        <field name="OEPS PN">TBD</field>
+        <field name="OEPS PN">OEPS020105</field>
       </fields>
       <libsource lib="Miniscope-v4-Wire-Free-rescue" part="R_Small_US-.Device" description=""/>
-      <property name="OEPS PN" value="TBD"/>
-      <property name="Description" value="SMD 0201 24.9kΩ ±1% 0.050W (OEPS Q20 008)"/>
+      <property name="OEPS PN" value="OEPS020105"/>
+      <property name="Description" value="SMD 0201 24.9kΩ ±1% 0.050W"/>
       <property name="MPN" value="CRCW020124K9FNED"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
@@ -1732,11 +1782,11 @@
       <fields>
         <field name="Description">SMD 0201 1.8kΩ ±1% 0.050W</field>
         <field name="MPN">ERJ-1GNF1801C</field>
-        <field name="OEPS PN">TBD</field>
+        <field name="OEPS PN">OEPS020114</field>
       </fields>
       <libsource lib="Miniscope-v4-Wire-Free-rescue" part="R_Small_US-.Device" description=""/>
       <property name="Description" value="SMD 0201 1.8kΩ ±1% 0.050W"/>
-      <property name="OEPS PN" value="TBD"/>
+      <property name="OEPS PN" value="OEPS020114"/>
       <property name="MPN" value="ERJ-1GNF1801C"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
@@ -1816,15 +1866,17 @@
       <footprint>.Switch:SMD-Switch-3mmx2mm</footprint>
       <fields>
         <field name="Description">SWITCH TACTILE SPST-NO 0.05A 12V</field>
-        <field name="MPN">TL3780AF330QG   https://www.digikey.com/en/products/detail/e-switch/tl3780af330qg/6003168</field>
-        <field name="OEPS PN">TBD</field>
+        <field name="MPN">TL3780AF330QG</field>
+        <field name="OEPS PN">OEPS100050</field>
       </fields>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
-      <property name="OEPS PN" value="TBD"/>
+      <property name="OEPS PN" value="OEPS100050"/>
       <property name="Description" value="SWITCH TACTILE SPST-NO 0.05A 12V"/>
-      <property name="MPN" value="TL3780AF330QG   https://www.digikey.com/en/products/detail/e-switch/tl3780af330qg/6003168"/>
+      <property name="MPN" value="TL3780AF330QG"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061acacbf</tstamps>
     </comp>
@@ -1833,14 +1885,14 @@
       <footprint>Package_DFN_QFN:QFN-20-1EP_3x3mm_P0.4mm_EP1.65x1.65mm</footprint>
       <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/355412ff.pdf</datasheet>
       <fields>
-        <field name="Description">IC USB POWER MANAGER 20UTQFN</field>
-        <field name="MPN">LTC3554EUD#PBF   https://www.digikey.com/en/products/detail/analog-devices-inc/LTC3554EUD-PBF/2355199</field>
-        <field name="OEPS PN">TBD</field>
+        <field name="Description">USB POWER MANAGER</field>
+        <field name="MPN">LTC3554EUD#PBF</field>
+        <field name="OEPS PN">OEPS080113</field>
       </fields>
       <libsource lib="Miniscope-v4-Wire-Free-rescue" part="LTC3554-.Regulator_Switching" description=""/>
-      <property name="OEPS PN" value="TBD"/>
-      <property name="Description" value="IC USB POWER MANAGER 20UTQFN"/>
-      <property name="MPN" value="LTC3554EUD#PBF   https://www.digikey.com/en/products/detail/analog-devices-inc/LTC3554EUD-PBF/2355199"/>
+      <property name="OEPS PN" value="OEPS080113"/>
+      <property name="Description" value="USB POWER MANAGER"/>
+      <property name="MPN" value="LTC3554EUD#PBF"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1850,14 +1902,14 @@
       <value>HV892</value>
       <footprint>.Package_SON:SON11P65_400X400X80L40X30T315X255L</footprint>
       <fields>
-        <field name="Description">IC LED DRIVER LENS 10WDFN</field>
-        <field name="MPN">HV892K7-G   https://www.digikey.com/en/products/detail/microchip-technology/HV892K7-G/4902801?s=N4IgTCBcDaIBIDUAcBOMBpA7AWgOIgF0BfIA</field>
-        <field name="OEPS PN">TBD</field>
+        <field name="Description">LED DRIVER LENS</field>
+        <field name="MPN">HV892K7-G</field>
+        <field name="OEPS PN">OEPS080111</field>
       </fields>
       <libsource lib="Miniscope-v4-Wire-Free-rescue" part="HV892-.Driver_ETL" description=""/>
-      <property name="OEPS PN" value="TBD"/>
-      <property name="Description" value="IC LED DRIVER LENS 10WDFN"/>
-      <property name="MPN" value="HV892K7-G   https://www.digikey.com/en/products/detail/microchip-technology/HV892K7-G/4902801?s=N4IgTCBcDaIBIDUAcBOMBpA7AWgOIgF0BfIA"/>
+      <property name="OEPS PN" value="OEPS080111"/>
+      <property name="Description" value="LED DRIVER LENS"/>
+      <property name="MPN" value="HV892K7-G"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1888,10 +1940,10 @@
       <fields>
         <field name="Description">IC TRANSLTR BIDIRECTIONAL 16UCSP</field>
         <field name="MPN">MAX13030EEBE+T</field>
-        <field name="OEPS PN">TBD</field>
+        <field name="OEPS PN">OEPS080114</field>
       </fields>
       <libsource lib="Miniscope-v4-Wire-Free-rescue" part="MAX13030EETE+BGA-.Logic_Level_Translator" description=""/>
-      <property name="OEPS PN" value="TBD"/>
+      <property name="OEPS PN" value="OEPS080114"/>
       <property name="Description" value="IC TRANSLTR BIDIRECTIONAL 16UCSP"/>
       <property name="MPN" value="MAX13030EEBE+T"/>
       <property name="Sheetname" value=""/>
@@ -1905,11 +1957,11 @@
       <fields>
         <field name="Description">IR Receiver Sensor 38.0kHz 40m Surface Mount</field>
         <field name="MPN">TSOP57438TT1</field>
-        <field name="OEPS PN">OEPSJ1008</field>
+        <field name="OEPS PN">OEPS080117</field>
       </fields>
       <libsource lib="Miniscope-v4-Wire-Free-rescue" part="TSOP57438TT1-.IR_Receiver" description=""/>
       <property name="MPN" value="TSOP57438TT1"/>
-      <property name="OEPS PN" value="OEPSJ1008"/>
+      <property name="OEPS PN" value="OEPS080117"/>
       <property name="Description" value="IR Receiver Sensor 38.0kHz 40m Surface Mount"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
@@ -1917,16 +1969,16 @@
       <tstamps>00000000-0000-0000-0000-00006111ac63</tstamps>
     </comp>
     <comp ref="U6">
-      <value>ATSAMD51J20A-UUT-EFP</value>
+      <value>ATSAMD51J20A</value>
       <footprint>.Package_BGA:ATSAMD51J20A-UUT-EFP</footprint>
       <fields>
         <field name="Description">MCU 120MHZ 1024KB FLASH 64</field>
-        <field name="MPN">ATSAMD51J20A-UUT-EFP   https://www.digikey.com/en/products/detail/microchip-technology/atsamd51j20a-uut-efp/11476389</field>
-        <field name="OEPS PN">TBD</field>
+        <field name="MPN">ATSAMD51J20A-UUT-EFP</field>
+        <field name="OEPS PN">OEPS080115</field>
       </fields>
       <libsource lib="Miniscope-v4-Wire-Free-rescue" part="ATSAMD51J20A-UUT-EFP-.SAMD51" description=""/>
-      <property name="MPN" value="ATSAMD51J20A-UUT-EFP   https://www.digikey.com/en/products/detail/microchip-technology/atsamd51j20a-uut-efp/11476389"/>
-      <property name="OEPS PN" value="TBD"/>
+      <property name="MPN" value="ATSAMD51J20A-UUT-EFP"/>
+      <property name="OEPS PN" value="OEPS080115"/>
       <property name="Description" value="MCU 120MHZ 1024KB FLASH 64"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
@@ -1952,18 +2004,18 @@
       <tstamps>00000000-0000-0000-0000-0000609f09bc</tstamps>
     </comp>
     <comp ref="U8">
-      <value>NOIP1SN0480A-STI</value>
+      <value>NOIP1SP0480A-STI</value>
       <footprint>.Package_BGA:BGA88CP50_8X11_493X613X75B25</footprint>
       <datasheet>https://www.onsemi.com/pub/Collateral/NOIP1SN0480A-D.PDF</datasheet>
       <fields>
-        <field name="Description">IC CMOS IMAGE SENSOR 1/3.6" BW_</field>
-        <field name="MPN">NOIP1SN0480A-STI</field>
-        <field name="OEPS PN">TBD</field>
+        <field name="Description">Image Sensor PYTHON480 808H x 608V BW</field>
+        <field name="MPN">NOIP1SP0480A-STI</field>
+        <field name="OEPS PN">OEPS080071</field>
       </fields>
       <libsource lib="Miniscope-v4-Wire-Free-rescue" part="NOIP1SN0480A-.Image_Sensor" description=""/>
-      <property name="OEPS PN" value="TBD"/>
-      <property name="Description" value="IC CMOS IMAGE SENSOR 1/3.6&quot; BW_"/>
-      <property name="MPN" value="NOIP1SN0480A-STI"/>
+      <property name="OEPS PN" value="OEPS080071"/>
+      <property name="Description" value="Image Sensor PYTHON480 808H x 608V BW"/>
+      <property name="MPN" value="NOIP1SP0480A-STI"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1991,16 +2043,18 @@
       <value>XTAL 32.7680KHZ</value>
       <footprint>Crystal:Crystal_SMD_MicroCrystal_CC8V-T1A-2Pin_2.0x1.2mm</footprint>
       <fields>
-        <field name="Description">CRYSTAL 32.7680KHZ 12.5PF SMD</field>
+        <field name="Description">Crystal 32768 KHz ±50ppm 12.5pF 90kOhms</field>
         <field name="MPN">9HT11-32.768KBZF-T</field>
-        <field name="OEPS PN">TBD</field>
+        <field name="OEPS PN">OEPS100051</field>
       </fields>
       <libsource lib="Device" part="Crystal" description="Two pin crystal"/>
-      <property name="Description" value="CRYSTAL 32.7680KHZ 12.5PF SMD"/>
+      <property name="Description" value="Crystal 32768 KHz ±50ppm 12.5pF 90kOhms"/>
       <property name="MPN" value="9HT11-32.768KBZF-T"/>
-      <property name="OEPS PN" value="TBD"/>
+      <property name="OEPS PN" value="OEPS100051"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Miniscope-v4-Wire-Free.kicad_sch"/>
+      <property name="ki_description" value="Two pin crystal"/>
+      <property name="ki_keywords" value="quartz ceramic resonator oscillator"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000060c2fb65</tstamps>
     </comp>
@@ -2488,16 +2542,16 @@
   </libparts>
   <libraries>
     <library logical="Connector_Generic">
-      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
     </library>
     <library logical="Device">
-      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
     </library>
     <library logical="Miniscope-v4-Wire-Free-rescue">
-      <uri>C:\Users\David Palma\Documents\GitHub\Miniscope-v4-Wire-Free\Miniscope-v4-Wire-Free-KiCad\KiCad\Miniscope-v4-Wire-Free/Miniscope-v4-Wire-Free-rescue.lib</uri>
+      <uri>C:\Users\David Palma\Documents\GitHub\davidpalma666\Miniscope-v4-Wire-Free-FORK\Miniscope-v4-Wire-Free-KiCad\KiCad\Miniscope-v4-Wire-Free/Miniscope-v4-Wire-Free-rescue.lib</uri>
     </library>
     <library logical="Switch">
-      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Switch.kicad_sym</uri>
     </library>
   </libraries>
   <nets>
@@ -2964,87 +3018,87 @@
       <node ref="U8" pin="H8" pinfunction="VSS_33" pintype="power_in"/>
       <node ref="U9" pin="2" pinfunction="V-" pintype="power_in"/>
     </net>
-    <net code="67" name="Net-(C3-Pad2)">
+    <net code="67" name="Net-(C14-Pad1)">
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(D2-A)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(D2-K)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(D3-K)">
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(Q1-D)">
+      <node ref="Q1" pin="3" pinfunction="D" pintype="bidirectional"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(Q2-B)">
+      <node ref="Q2" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(U1-FB1)">
       <node ref="C3" pin="2" pintype="passive"/>
       <node ref="R3" pin="2" pintype="passive"/>
       <node ref="R5" pin="2" pintype="passive"/>
       <node ref="U1" pin="6" pinfunction="FB1" pintype="input"/>
     </net>
-    <net code="68" name="Net-(C4-Pad2)">
+    <net code="74" name="Net-(U1-FB2)">
       <node ref="C4" pin="2" pintype="passive"/>
       <node ref="R4" pin="2" pintype="passive"/>
       <node ref="R6" pin="2" pintype="passive"/>
       <node ref="U1" pin="7" pinfunction="FB2" pintype="input"/>
     </net>
-    <net code="69" name="Net-(C14-Pad1)">
-      <node ref="C14" pin="1" pintype="passive"/>
-      <node ref="R10" pin="2" pintype="passive"/>
-      <node ref="R9" pin="1" pintype="passive"/>
-    </net>
-    <net code="70" name="Net-(C15-Pad1)">
-      <node ref="C15" pin="1" pintype="passive"/>
-      <node ref="U3" pin="1" pinfunction="CP" pintype="output"/>
-    </net>
-    <net code="71" name="Net-(C15-Pad2)">
-      <node ref="C15" pin="2" pintype="passive"/>
-      <node ref="U3" pin="9" pinfunction="CM" pintype="input"/>
-    </net>
-    <net code="72" name="Net-(C16-Pad1)">
-      <node ref="C16" pin="1" pintype="passive"/>
-      <node ref="U2" pin="10" pinfunction="HV" pintype="power_out"/>
-    </net>
-    <net code="73" name="Net-(C17-Pad1)">
-      <node ref="C17" pin="1" pintype="passive"/>
-      <node ref="U3" pin="2" pinfunction="eCPO" pintype="output"/>
-    </net>
-    <net code="74" name="Net-(D2-Pad1)">
-      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="Q2" pin="3" pinfunction="C" pintype="passive"/>
-    </net>
-    <net code="75" name="Net-(D2-Pad2)">
-      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="R2" pin="1" pintype="passive"/>
-    </net>
-    <net code="76" name="Net-(D3-Pad1)">
-      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="R18" pin="2" pintype="passive"/>
-    </net>
-    <net code="77" name="Net-(L1-Pad1)">
-      <node ref="L1" pin="1" pintype="passive"/>
-      <node ref="U1" pin="13" pinfunction="SW1" pintype="input"/>
-    </net>
-    <net code="78" name="Net-(L2-Pad1)">
-      <node ref="L2" pin="1" pintype="passive"/>
-      <node ref="U1" pin="11" pinfunction="SW2" pintype="input"/>
-    </net>
-    <net code="79" name="Net-(L4-Pad1)">
-      <node ref="L4" pin="1" pintype="passive"/>
-      <node ref="U9" pin="3" pinfunction="-" pintype="input"/>
-      <node ref="U9" pin="4" pintype="output"/>
-    </net>
-    <net code="80" name="Net-(L5-Pad2)">
-      <node ref="L5" pin="2" pintype="passive"/>
-      <node ref="U6" pin="A5" pinfunction="VSW" pintype="power_in"/>
-    </net>
-    <net code="81" name="Net-(Q1-Pad3)">
-      <node ref="Q1" pin="3" pinfunction="D" pintype="bidirectional"/>
-      <node ref="R9" pin="2" pintype="passive"/>
-    </net>
-    <net code="82" name="Net-(Q2-Pad1)">
-      <node ref="Q2" pin="1" pinfunction="B" pintype="input"/>
-      <node ref="R19" pin="1" pintype="passive"/>
-    </net>
-    <net code="83" name="Net-(R1-Pad1)">
-      <node ref="R1" pin="1" pintype="passive"/>
-      <node ref="U1" pin="16" pinfunction="PROG" pintype="input"/>
-    </net>
-    <net code="84" name="Net-(R17-Pad1)">
+    <net code="75" name="Net-(U1-HPWR)">
       <node ref="R17" pin="1" pintype="passive"/>
       <node ref="U1" pin="1" pinfunction="HPWR" pintype="input"/>
     </net>
-    <net code="85" name="Net-(R22-Pad1)">
+    <net code="76" name="Net-(U1-PROG)">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="PROG" pintype="input"/>
+    </net>
+    <net code="77" name="Net-(U1-SW1)">
+      <node ref="L1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="SW1" pintype="input"/>
+    </net>
+    <net code="78" name="Net-(U1-SW2)">
+      <node ref="L2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="SW2" pintype="input"/>
+    </net>
+    <net code="79" name="Net-(U2-HV)">
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="U2" pin="10" pinfunction="HV" pintype="power_out"/>
+    </net>
+    <net code="80" name="Net-(U3-CM)">
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="U3" pin="9" pinfunction="CM" pintype="input"/>
+    </net>
+    <net code="81" name="Net-(U3-CP)">
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="CP" pintype="output"/>
+    </net>
+    <net code="82" name="Net-(U3-eCPO)">
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="eCPO" pintype="output"/>
+    </net>
+    <net code="83" name="Net-(U6B-VSW)">
+      <node ref="L5" pin="2" pintype="passive"/>
+      <node ref="U6" pin="A5" pinfunction="VSW" pintype="power_in"/>
+    </net>
+    <net code="84" name="Net-(U8-IBIAS_MASTER)">
       <node ref="R22" pin="1" pintype="passive"/>
       <node ref="U8" pin="E1" pinfunction="IBIAS_MASTER" pintype="input"/>
+    </net>
+    <net code="85" name="Net-(U9--)">
+      <node ref="L4" pin="1" pintype="passive"/>
+      <node ref="U9" pin="3" pinfunction="-" pintype="input"/>
+      <node ref="U9" pin="4" pintype="output"/>
     </net>
     <net code="86" name="VDC">
       <node ref="C2" pin="1" pintype="passive"/>
@@ -3055,86 +3109,86 @@
       <node ref="U1" pin="18" pinfunction="V_OUT" pintype="input"/>
       <node ref="U7" pin="4" pinfunction="VIN" pintype="input"/>
     </net>
-    <net code="87" name="unconnected-(U1-Pad4)">
+    <net code="87" name="unconnected-(U1-PGOOD-Pad4)">
       <node ref="U1" pin="4" pinfunction="PGOOD" pintype="input"/>
     </net>
-    <net code="88" name="unconnected-(U1-Pad19)">
+    <net code="88" name="unconnected-(U1-SUSP-Pad19)">
       <node ref="U1" pin="19" pinfunction="SUSP" pintype="input"/>
     </net>
-    <net code="89" name="unconnected-(U2-Pad9)">
+    <net code="89" name="unconnected-(U2-NC-Pad9)">
       <node ref="U2" pin="9" pinfunction="NC" pintype="no_connect"/>
     </net>
-    <net code="90" name="unconnected-(U6-PadB3)">
-      <node ref="U6" pin="B3" pinfunction="PA27" pintype="bidirectional"/>
-    </net>
-    <net code="91" name="unconnected-(U6-PadB6)">
-      <node ref="U6" pin="B6" pinfunction="PB31" pintype="bidirectional"/>
-    </net>
-    <net code="92" name="unconnected-(U6-PadC6)">
-      <node ref="U6" pin="C6" pinfunction="PB03" pintype="bidirectional"/>
-    </net>
-    <net code="93" name="unconnected-(U6-PadD6)">
+    <net code="90" name="unconnected-(U6A-PA03-PadD6)">
       <node ref="U6" pin="D6" pinfunction="PA03" pintype="bidirectional"/>
     </net>
-    <net code="94" name="unconnected-(U6-PadD7)">
+    <net code="91" name="unconnected-(U6A-PA27-PadB3)">
+      <node ref="U6" pin="B3" pinfunction="PA27" pintype="bidirectional"/>
+    </net>
+    <net code="92" name="unconnected-(U6A-PB03-PadC6)">
+      <node ref="U6" pin="C6" pinfunction="PB03" pintype="bidirectional"/>
+    </net>
+    <net code="93" name="unconnected-(U6A-PB04-PadD7)">
       <node ref="U6" pin="D7" pinfunction="PB04" pintype="bidirectional"/>
     </net>
-    <net code="95" name="unconnected-(U6-PadE6)">
-      <node ref="U6" pin="E6" pinfunction="PB07" pintype="bidirectional"/>
-    </net>
-    <net code="96" name="unconnected-(U6-PadE7)">
+    <net code="94" name="unconnected-(U6A-PB06-PadE7)">
       <node ref="U6" pin="E7" pinfunction="PB06" pintype="bidirectional"/>
     </net>
-    <net code="97" name="unconnected-(U6-PadF5)">
+    <net code="95" name="unconnected-(U6A-PB07-PadE6)">
+      <node ref="U6" pin="E6" pinfunction="PB07" pintype="bidirectional"/>
+    </net>
+    <net code="96" name="unconnected-(U6A-PB08-PadF5)">
       <node ref="U6" pin="F5" pinfunction="PB08" pintype="bidirectional"/>
     </net>
-    <net code="98" name="unconnected-(U8-PadB9)">
-      <node ref="U8" pin="B9" pinfunction="DOUT0" pintype="output"/>
+    <net code="97" name="unconnected-(U6A-PB31-PadB6)">
+      <node ref="U6" pin="B6" pinfunction="PB31" pintype="bidirectional"/>
     </net>
-    <net code="99" name="unconnected-(U8-PadB11)">
-      <node ref="U8" pin="B11" pinfunction="CLK_OUTP" pintype="input"/>
-    </net>
-    <net code="100" name="unconnected-(U8-PadC9)">
-      <node ref="U8" pin="C9" pinfunction="DOUT1" pintype="output"/>
-    </net>
-    <net code="101" name="unconnected-(U8-PadC10)">
+    <net code="98" name="unconnected-(U8-CLK_OUTN-PadC10)">
       <node ref="U8" pin="C10" pinfunction="CLK_OUTN" pintype="input"/>
     </net>
-    <net code="102" name="unconnected-(U8-PadC11)">
-      <node ref="U8" pin="C11" pinfunction="DOUTP" pintype="input"/>
+    <net code="99" name="unconnected-(U8-CLK_OUTP-PadB11)">
+      <node ref="U8" pin="B11" pinfunction="CLK_OUTP" pintype="input"/>
     </net>
-    <net code="103" name="unconnected-(U8-PadD10)">
-      <node ref="U8" pin="D10" pinfunction="DOUTN" pintype="input"/>
-    </net>
-    <net code="104" name="unconnected-(U8-PadD11)">
-      <node ref="U8" pin="D11" pinfunction="SYNCP" pintype="input"/>
-    </net>
-    <net code="105" name="unconnected-(U8-PadE10)">
-      <node ref="U8" pin="E10" pinfunction="SYNCN" pintype="input"/>
-    </net>
-    <net code="106" name="unconnected-(U8-PadE11)">
-      <node ref="U8" pin="E11" pinfunction="LVDS_CLK_INP" pintype="input"/>
-    </net>
-    <net code="107" name="unconnected-(U8-PadF1)">
-      <node ref="U8" pin="F1" pinfunction="CP_RESPD" pintype="input"/>
-    </net>
-    <net code="108" name="unconnected-(U8-PadF10)">
-      <node ref="U8" pin="F10" pinfunction="LVDS_CLK_INN" pintype="input"/>
-    </net>
-    <net code="109" name="unconnected-(U8-PadG1)">
+    <net code="100" name="unconnected-(U8-CP_CALIB-PadG1)">
       <node ref="U8" pin="G1" pinfunction="CP_CALIB" pintype="input"/>
     </net>
-    <net code="110" name="unconnected-(U8-PadH1)">
+    <net code="101" name="unconnected-(U8-CP_RESPD-PadF1)">
+      <node ref="U8" pin="F1" pinfunction="CP_RESPD" pintype="input"/>
+    </net>
+    <net code="102" name="unconnected-(U8-CP_SEL_SAMPLE-PadH4)">
+      <node ref="U8" pin="H4" pinfunction="CP_SEL_SAMPLE" pintype="input"/>
+    </net>
+    <net code="103" name="unconnected-(U8-DOUT0-PadB9)">
+      <node ref="U8" pin="B9" pinfunction="DOUT0" pintype="output"/>
+    </net>
+    <net code="104" name="unconnected-(U8-DOUT1-PadC9)">
+      <node ref="U8" pin="C9" pinfunction="DOUT1" pintype="output"/>
+    </net>
+    <net code="105" name="unconnected-(U8-DOUTN-PadD10)">
+      <node ref="U8" pin="D10" pinfunction="DOUTN" pintype="input"/>
+    </net>
+    <net code="106" name="unconnected-(U8-DOUTP-PadC11)">
+      <node ref="U8" pin="C11" pinfunction="DOUTP" pintype="input"/>
+    </net>
+    <net code="107" name="unconnected-(U8-LVDS_CLK_INN-PadF10)">
+      <node ref="U8" pin="F10" pinfunction="LVDS_CLK_INN" pintype="input"/>
+    </net>
+    <net code="108" name="unconnected-(U8-LVDS_CLK_INP-PadE11)">
+      <node ref="U8" pin="E11" pinfunction="LVDS_CLK_INP" pintype="input"/>
+    </net>
+    <net code="109" name="unconnected-(U8-MBSINOUT1-PadH1)">
       <node ref="U8" pin="H1" pinfunction="MBSINOUT1" pintype="input"/>
     </net>
-    <net code="111" name="unconnected-(U8-PadH2)">
+    <net code="110" name="unconnected-(U8-MBSINOUT1-PadH2)">
       <node ref="U8" pin="H2" pinfunction="MBSINOUT1" pintype="input"/>
     </net>
-    <net code="112" name="unconnected-(U8-PadH3)">
+    <net code="111" name="unconnected-(U8-MBSINOUT2-PadH3)">
       <node ref="U8" pin="H3" pinfunction="MBSINOUT2" pintype="input"/>
     </net>
-    <net code="113" name="unconnected-(U8-PadH4)">
-      <node ref="U8" pin="H4" pinfunction="CP_SEL_SAMPLE" pintype="input"/>
+    <net code="112" name="unconnected-(U8-SYNCN-PadE10)">
+      <node ref="U8" pin="E10" pinfunction="SYNCN" pintype="input"/>
+    </net>
+    <net code="113" name="unconnected-(U8-SYNCP-PadD11)">
+      <node ref="U8" pin="D11" pinfunction="SYNCP" pintype="input"/>
     </net>
   </nets>
 </export>
