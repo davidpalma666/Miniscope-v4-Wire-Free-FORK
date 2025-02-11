@@ -1,4 +1,56 @@
 
+*************************************************
+*@6 Janeiro 2025
+Psta de projecto não-limpa
+
+
+	- projecto com 2 versões feicheiro do Kicad
+		.kicad_pro	& .pro
+		. _autosave.schm
+		. ficheiros rescue e libs na Dir projecto	..............
+	
+	- Miniscope-v4-Wire-Free.zip  versão antiga - retirar da folder!!!
+	
+
+	
+	#1
+	- solder mask minimum not setted to 0 ?? 
+		. há razão para impôr a solder mask a 0.0254 - pode haver sim; Maior segurança para soldadura?
+	- DRC Error:
+		J9:	Negative Solder Paste: i.e. < Pad Size
+
+
+	#2
+	!!!!!!!!!!
+	- o utilizar o TH na PCB na margem da PCB não gera problebas de Manufacturing?? - Diálogo com o Manufacturing??
+		. sim é feasible, 
+			- mas fica mais caro
+			- alguns manufacturers podem não o fazer
+			- tem de ser esta a opção?? pode-se tentar usar outra coisa?
+
+	#1 & #2
+	- há 'erros' q podem comprometer o desenho imediato dos ficheiros enviados
+
+	#3
+	- 2 PCBs no mesmo ficheiro? Pq??
+		. gerar os Gerbers fica mais complexo?!
+		. Gerbers ficam e estão com o mesmo nome para PCBs diferentes
+	- Pq as 2 PCB2 em 6 layers?? 
+		. a PCB Top pode ser resolvida facilmente em 4
+		
+	#4
+	- MAP Files - diria q sim
+		- numa folder diferente diferente para simplificar a leitura (?)
+		- complementa a info de buried Vias 
+		- PCB muito pequena mas densa com mais de 250 furos e blind vias
+		- e se o Fabricante need/not-need já lá está
+		
+		
+	#5
+	- P&P - OK
+		
+		
+	
 
 
 
